@@ -20,3 +20,4 @@ To remove or edit a filter search by one of the fields, the value in that field 
 ![](Resources/Search_Result2.png)
 
 ## Summary
+One drawback of this data is that the search result only locates exact matches to the filter search entries. One addition for further development is to associate alternative filter search criteria formats with their matches in the UFO data, such as "CA" equals "ca" for the State filter search. Additionally, search criteria formats for duration could be associated with the different formats in the UFO data, and a Duration filter search tab could be added to the .html and .js application.
